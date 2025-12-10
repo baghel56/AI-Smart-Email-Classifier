@@ -1,0 +1,201 @@
+email_id,subject,body,category,urgency,processed_text
+1,Order not received,I placed an order last week but haven't received it. Please resolve immediately.,Complaint,Medium,order received placed order last week havent received please resolve immediately
+2,Payment issue,My payment failed but the amount was deducted. Kindly fix this.,Complaint,Medium,payment issue payment failed amount deducted kindly fix
+3,Product damaged,The product I received is damaged. I need a replacement.,Complaint,Medium,product damaged product received damaged need replacement
+4,Product damaged,The product I received is damaged. I need a replacement.,Complaint,High,product damaged product received damaged need replacement
+5,Product damaged,The product I received is damaged. I need a replacement.,Complaint,Medium,product damaged product received damaged need replacement
+6,Order not received,I placed an order last week but haven't received it. Please resolve immediately.,Complaint,Medium,order received placed order last week havent received please resolve immediately
+7,Order not received,I placed an order last week but haven't received it. Please resolve immediately.,Complaint,Medium,order received placed order last week havent received please resolve immediately
+8,Order not received,I placed an order last week but haven't received it. Please resolve immediately.,Complaint,Medium,order received placed order last week havent received please resolve immediately
+9,Payment issue,My payment failed but the amount was deducted. Kindly fix this.,Complaint,Medium,payment issue payment failed amount deducted kindly fix
+10,Payment issue,My payment failed but the amount was deducted. Kindly fix this.,Complaint,Medium,payment issue payment failed amount deducted kindly fix
+11,Order not received,I placed an order last week but haven't received it. Please resolve immediately.,Complaint,High,order received placed order last week havent received please resolve immediately
+12,Product damaged,The product I received is damaged. I need a replacement.,Complaint,High,product damaged product received damaged need replacement
+13,Order not received,I placed an order last week but haven't received it. Please resolve immediately.,Complaint,High,order received placed order last week havent received please resolve immediately
+14,Order not received,I placed an order last week but haven't received it. Please resolve immediately.,Complaint,High,order received placed order last week havent received please resolve immediately
+15,Product damaged,The product I received is damaged. I need a replacement.,Complaint,High,product damaged product received damaged need replacement
+16,Payment issue,My payment failed but the amount was deducted. Kindly fix this.,Complaint,High,payment issue payment failed amount deducted kindly fix
+17,Payment issue,My payment failed but the amount was deducted. Kindly fix this.,Complaint,High,payment issue payment failed amount deducted kindly fix
+18,Payment issue,My payment failed but the amount was deducted. Kindly fix this.,Complaint,High,payment issue payment failed amount deducted kindly fix
+19,Payment issue,My payment failed but the amount was deducted. Kindly fix this.,Complaint,High,payment issue payment failed amount deducted kindly fix
+20,Order not received,I placed an order last week but haven't received it. Please resolve immediately.,Complaint,High,order received placed order last week havent received please resolve immediately
+21,Order not received,I placed an order last week but haven't received it. Please resolve immediately.,Complaint,Medium,order received placed order last week havent received please resolve immediately
+22,Payment issue,My payment failed but the amount was deducted. Kindly fix this.,Complaint,Medium,payment issue payment failed amount deducted kindly fix
+23,Product damaged,The product I received is damaged. I need a replacement.,Complaint,Medium,product damaged product received damaged need replacement
+24,Order not received,I placed an order last week but haven't received it. Please resolve immediately.,Complaint,Medium,order received placed order last week havent received please resolve immediately
+25,Payment issue,My payment failed but the amount was deducted. Kindly fix this.,Complaint,Medium,payment issue payment failed amount deducted kindly fix
+26,Order not received,I placed an order last week but haven't received it. Please resolve immediately.,Complaint,Medium,order received placed order last week havent received please resolve immediately
+27,Product damaged,The product I received is damaged. I need a replacement.,Complaint,High,product damaged product received damaged need replacement
+28,Payment issue,My payment failed but the amount was deducted. Kindly fix this.,Complaint,High,payment issue payment failed amount deducted kindly fix
+29,Order not received,I placed an order last week but haven't received it. Please resolve immediately.,Complaint,High,order received placed order last week havent received please resolve immediately
+30,Product damaged,The product I received is damaged. I need a replacement.,Complaint,Medium,product damaged product received damaged need replacement
+31,Payment issue,My payment failed but the amount was deducted. Kindly fix this.,Complaint,High,payment issue payment failed amount deducted kindly fix
+32,Order not received,I placed an order last week but haven't received it. Please resolve immediately.,Complaint,High,order received placed order last week havent received please resolve immediately
+33,Product damaged,The product I received is damaged. I need a replacement.,Complaint,Medium,product damaged product received damaged need replacement
+34,Payment issue,My payment failed but the amount was deducted. Kindly fix this.,Complaint,High,payment issue payment failed amount deducted kindly fix
+35,Payment issue,My payment failed but the amount was deducted. Kindly fix this.,Complaint,Medium,payment issue payment failed amount deducted kindly fix
+36,Payment issue,My payment failed but the amount was deducted. Kindly fix this.,Complaint,Medium,payment issue payment failed amount deducted kindly fix
+37,Product damaged,The product I received is damaged. I need a replacement.,Complaint,Medium,product damaged product received damaged need replacement
+38,Product damaged,The product I received is damaged. I need a replacement.,Complaint,Medium,product damaged product received damaged need replacement
+39,Order not received,I placed an order last week but haven't received it. Please resolve immediately.,Complaint,High,order received placed order last week havent received please resolve immediately
+40,Product damaged,The product I received is damaged. I need a replacement.,Complaint,High,product damaged product received damaged need replacement
+41,Payment issue,My payment failed but the amount was deducted. Kindly fix this.,Complaint,High,payment issue payment failed amount deducted kindly fix
+42,Order not received,I placed an order last week but haven't received it. Please resolve immediately.,Complaint,Medium,order received placed order last week havent received please resolve immediately
+43,Product damaged,The product I received is damaged. I need a replacement.,Complaint,Medium,product damaged product received damaged need replacement
+44,Order not received,I placed an order last week but haven't received it. Please resolve immediately.,Complaint,Medium,order received placed order last week havent received please resolve immediately
+45,Product damaged,The product I received is damaged. I need a replacement.,Complaint,High,product damaged product received damaged need replacement
+46,Product damaged,The product I received is damaged. I need a replacement.,Complaint,Medium,product damaged product received damaged need replacement
+47,Order not received,I placed an order last week but haven't received it. Please resolve immediately.,Complaint,Medium,order received placed order last week havent received please resolve immediately
+48,Payment issue,My payment failed but the amount was deducted. Kindly fix this.,Complaint,Medium,payment issue payment failed amount deducted kindly fix
+49,Order not received,I placed an order last week but haven't received it. Please resolve immediately.,Complaint,High,order received placed order last week havent received please resolve immediately
+50,Payment issue,My payment failed but the amount was deducted. Kindly fix this.,Complaint,High,payment issue payment failed amount deducted kindly fix
+51,Change shipping address,Kindly update my shipping address for my last order.,Request,Low,change shipping address kindly update shipping address last order
+52,Account upgrade request,I want to upgrade my subscription to premium.,Request,Low,account upgrade request want upgrade subscription premium
+53,Account upgrade request,I want to upgrade my subscription to premium.,Request,Low,account upgrade request want upgrade subscription premium
+54,Change shipping address,Kindly update my shipping address for my last order.,Request,Medium,change shipping address kindly update shipping address last order
+55,Request for invoice,Please send me the invoice for my recent purchase.,Request,Medium,request invoice please send invoice recent purchase
+56,Account upgrade request,I want to upgrade my subscription to premium.,Request,Medium,account upgrade request want upgrade subscription premium
+57,Request for invoice,Please send me the invoice for my recent purchase.,Request,Low,request invoice please send invoice recent purchase
+58,Request for invoice,Please send me the invoice for my recent purchase.,Request,Medium,request invoice please send invoice recent purchase
+59,Request for invoice,Please send me the invoice for my recent purchase.,Request,Medium,request invoice please send invoice recent purchase
+60,Request for invoice,Please send me the invoice for my recent purchase.,Request,Medium,request invoice please send invoice recent purchase
+61,Request for invoice,Please send me the invoice for my recent purchase.,Request,Medium,request invoice please send invoice recent purchase
+62,Change shipping address,Kindly update my shipping address for my last order.,Request,Low,change shipping address kindly update shipping address last order
+63,Request for invoice,Please send me the invoice for my recent purchase.,Request,Medium,request invoice please send invoice recent purchase
+64,Request for invoice,Please send me the invoice for my recent purchase.,Request,Low,request invoice please send invoice recent purchase
+65,Account upgrade request,I want to upgrade my subscription to premium.,Request,Medium,account upgrade request want upgrade subscription premium
+66,Request for invoice,Please send me the invoice for my recent purchase.,Request,Low,request invoice please send invoice recent purchase
+67,Account upgrade request,I want to upgrade my subscription to premium.,Request,Medium,account upgrade request want upgrade subscription premium
+68,Account upgrade request,I want to upgrade my subscription to premium.,Request,Low,account upgrade request want upgrade subscription premium
+69,Change shipping address,Kindly update my shipping address for my last order.,Request,Medium,change shipping address kindly update shipping address last order
+70,Change shipping address,Kindly update my shipping address for my last order.,Request,Low,change shipping address kindly update shipping address last order
+71,Account upgrade request,I want to upgrade my subscription to premium.,Request,Medium,account upgrade request want upgrade subscription premium
+72,Account upgrade request,I want to upgrade my subscription to premium.,Request,Low,account upgrade request want upgrade subscription premium
+73,Account upgrade request,I want to upgrade my subscription to premium.,Request,Medium,account upgrade request want upgrade subscription premium
+74,Change shipping address,Kindly update my shipping address for my last order.,Request,Low,change shipping address kindly update shipping address last order
+75,Change shipping address,Kindly update my shipping address for my last order.,Request,Low,change shipping address kindly update shipping address last order
+76,Request for invoice,Please send me the invoice for my recent purchase.,Request,Medium,request invoice please send invoice recent purchase
+77,Request for invoice,Please send me the invoice for my recent purchase.,Request,Medium,request invoice please send invoice recent purchase
+78,Account upgrade request,I want to upgrade my subscription to premium.,Request,Medium,account upgrade request want upgrade subscription premium
+79,Request for invoice,Please send me the invoice for my recent purchase.,Request,Medium,request invoice please send invoice recent purchase
+80,Account upgrade request,I want to upgrade my subscription to premium.,Request,Low,account upgrade request want upgrade subscription premium
+81,Change shipping address,Kindly update my shipping address for my last order.,Request,Medium,change shipping address kindly update shipping address last order
+82,Change shipping address,Kindly update my shipping address for my last order.,Request,Low,change shipping address kindly update shipping address last order
+83,Request for invoice,Please send me the invoice for my recent purchase.,Request,Low,request invoice please send invoice recent purchase
+84,Account upgrade request,I want to upgrade my subscription to premium.,Request,Medium,account upgrade request want upgrade subscription premium
+85,Change shipping address,Kindly update my shipping address for my last order.,Request,Medium,change shipping address kindly update shipping address last order
+86,Account upgrade request,I want to upgrade my subscription to premium.,Request,Medium,account upgrade request want upgrade subscription premium
+87,Change shipping address,Kindly update my shipping address for my last order.,Request,Medium,change shipping address kindly update shipping address last order
+88,Request for invoice,Please send me the invoice for my recent purchase.,Request,Medium,request invoice please send invoice recent purchase
+89,Account upgrade request,I want to upgrade my subscription to premium.,Request,Medium,account upgrade request want upgrade subscription premium
+90,Change shipping address,Kindly update my shipping address for my last order.,Request,Medium,change shipping address kindly update shipping address last order
+91,Account upgrade request,I want to upgrade my subscription to premium.,Request,Low,account upgrade request want upgrade subscription premium
+92,Request for invoice,Please send me the invoice for my recent purchase.,Request,Low,request invoice please send invoice recent purchase
+93,Request for invoice,Please send me the invoice for my recent purchase.,Request,Low,request invoice please send invoice recent purchase
+94,Request for invoice,Please send me the invoice for my recent purchase.,Request,Medium,request invoice please send invoice recent purchase
+95,Request for invoice,Please send me the invoice for my recent purchase.,Request,Medium,request invoice please send invoice recent purchase
+96,Account upgrade request,I want to upgrade my subscription to premium.,Request,Low,account upgrade request want upgrade subscription premium
+97,Change shipping address,Kindly update my shipping address for my last order.,Request,Low,change shipping address kindly update shipping address last order
+98,Change shipping address,Kindly update my shipping address for my last order.,Request,Low,change shipping address kindly update shipping address last order
+99,Account upgrade request,I want to upgrade my subscription to premium.,Request,Medium,account upgrade request want upgrade subscription premium
+100,Account upgrade request,I want to upgrade my subscription to premium.,Request,Low,account upgrade request want upgrade subscription premium
+101,Suggestion for new feature,It would be great if your app supports dark mode.,Feedback,Low,suggestion new feature would great app support dark mode
+102,App is slow,The app works fine but sometimes it becomes slow to load.,Feedback,Low,app slow app work fine sometimes becomes slow load
+103,App is slow,The app works fine but sometimes it becomes slow to load.,Feedback,Low,app slow app work fine sometimes becomes slow load
+104,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+105,Suggestion for new feature,It would be great if your app supports dark mode.,Feedback,Low,suggestion new feature would great app support dark mode
+106,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+107,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+108,App is slow,The app works fine but sometimes it becomes slow to load.,Feedback,Low,app slow app work fine sometimes becomes slow load
+109,App is slow,The app works fine but sometimes it becomes slow to load.,Feedback,Low,app slow app work fine sometimes becomes slow load
+110,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+111,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+112,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+113,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+114,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+115,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+116,Suggestion for new feature,It would be great if your app supports dark mode.,Feedback,Low,suggestion new feature would great app support dark mode
+117,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+118,Suggestion for new feature,It would be great if your app supports dark mode.,Feedback,Low,suggestion new feature would great app support dark mode
+119,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+120,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+121,Suggestion for new feature,It would be great if your app supports dark mode.,Feedback,Low,suggestion new feature would great app support dark mode
+122,Suggestion for new feature,It would be great if your app supports dark mode.,Feedback,Low,suggestion new feature would great app support dark mode
+123,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+124,App is slow,The app works fine but sometimes it becomes slow to load.,Feedback,Low,app slow app work fine sometimes becomes slow load
+125,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+126,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+127,Suggestion for new feature,It would be great if your app supports dark mode.,Feedback,Low,suggestion new feature would great app support dark mode
+128,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+129,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+130,App is slow,The app works fine but sometimes it becomes slow to load.,Feedback,Low,app slow app work fine sometimes becomes slow load
+131,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+132,App is slow,The app works fine but sometimes it becomes slow to load.,Feedback,Low,app slow app work fine sometimes becomes slow load
+133,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+134,App is slow,The app works fine but sometimes it becomes slow to load.,Feedback,Low,app slow app work fine sometimes becomes slow load
+135,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+136,App is slow,The app works fine but sometimes it becomes slow to load.,Feedback,Low,app slow app work fine sometimes becomes slow load
+137,App is slow,The app works fine but sometimes it becomes slow to load.,Feedback,Low,app slow app work fine sometimes becomes slow load
+138,Suggestion for new feature,It would be great if your app supports dark mode.,Feedback,Low,suggestion new feature would great app support dark mode
+139,App is slow,The app works fine but sometimes it becomes slow to load.,Feedback,Low,app slow app work fine sometimes becomes slow load
+140,App is slow,The app works fine but sometimes it becomes slow to load.,Feedback,Low,app slow app work fine sometimes becomes slow load
+141,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+142,Suggestion for new feature,It would be great if your app supports dark mode.,Feedback,Low,suggestion new feature would great app support dark mode
+143,Suggestion for new feature,It would be great if your app supports dark mode.,Feedback,Low,suggestion new feature would great app support dark mode
+144,Suggestion for new feature,It would be great if your app supports dark mode.,Feedback,Low,suggestion new feature would great app support dark mode
+145,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+146,App is slow,The app works fine but sometimes it becomes slow to load.,Feedback,Low,app slow app work fine sometimes becomes slow load
+147,Suggestion for new feature,It would be great if your app supports dark mode.,Feedback,Low,suggestion new feature would great app support dark mode
+148,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+149,App is slow,The app works fine but sometimes it becomes slow to load.,Feedback,Low,app slow app work fine sometimes becomes slow load
+150,Loved the new update,The new version of your app is amazing! Keep it up.,Feedback,Low,loved new update new version app amazing keep
+151,Win a free iPhone!,Click here to claim your free iPhone now.,Spam,Low,win free iphone click claim free iphone
+152,Win a free iPhone!,Click here to claim your free iPhone now.,Spam,Low,win free iphone click claim free iphone
+153,Win a free iPhone!,Click here to claim your free iPhone now.,Spam,Low,win free iphone click claim free iphone
+154,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
+155,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
+156,Win a free iPhone!,Click here to claim your free iPhone now.,Spam,Low,win free iphone click claim free iphone
+157,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
+158,Earn $1000 daily,Work from home and earn $1000 every day! Sign up now.,Spam,Low,earn daily work home earn every day sign
+159,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
+160,Win a free iPhone!,Click here to claim your free iPhone now.,Spam,Low,win free iphone click claim free iphone
+161,Win a free iPhone!,Click here to claim your free iPhone now.,Spam,Low,win free iphone click claim free iphone
+162,Win a free iPhone!,Click here to claim your free iPhone now.,Spam,Low,win free iphone click claim free iphone
+163,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
+164,Win a free iPhone!,Click here to claim your free iPhone now.,Spam,Low,win free iphone click claim free iphone
+165,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
+166,Earn $1000 daily,Work from home and earn $1000 every day! Sign up now.,Spam,Low,earn daily work home earn every day sign
+167,Earn $1000 daily,Work from home and earn $1000 every day! Sign up now.,Spam,Low,earn daily work home earn every day sign
+168,Earn $1000 daily,Work from home and earn $1000 every day! Sign up now.,Spam,Low,earn daily work home earn every day sign
+169,Win a free iPhone!,Click here to claim your free iPhone now.,Spam,Low,win free iphone click claim free iphone
+170,Win a free iPhone!,Click here to claim your free iPhone now.,Spam,Low,win free iphone click claim free iphone
+171,Win a free iPhone!,Click here to claim your free iPhone now.,Spam,Low,win free iphone click claim free iphone
+172,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
+173,Win a free iPhone!,Click here to claim your free iPhone now.,Spam,Low,win free iphone click claim free iphone
+174,Win a free iPhone!,Click here to claim your free iPhone now.,Spam,Low,win free iphone click claim free iphone
+175,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
+176,Earn $1000 daily,Work from home and earn $1000 every day! Sign up now.,Spam,Low,earn daily work home earn every day sign
+177,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
+178,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
+179,Earn $1000 daily,Work from home and earn $1000 every day! Sign up now.,Spam,Low,earn daily work home earn every day sign
+180,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
+181,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
+182,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
+183,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
+184,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
+185,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
+186,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
+187,Earn $1000 daily,Work from home and earn $1000 every day! Sign up now.,Spam,Low,earn daily work home earn every day sign
+188,Earn $1000 daily,Work from home and earn $1000 every day! Sign up now.,Spam,Low,earn daily work home earn every day sign
+189,Win a free iPhone!,Click here to claim your free iPhone now.,Spam,Low,win free iphone click claim free iphone
+190,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
+191,Earn $1000 daily,Work from home and earn $1000 every day! Sign up now.,Spam,Low,earn daily work home earn every day sign
+192,Win a free iPhone!,Click here to claim your free iPhone now.,Spam,Low,win free iphone click claim free iphone
+193,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
+194,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
+195,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
+196,Earn $1000 daily,Work from home and earn $1000 every day! Sign up now.,Spam,Low,earn daily work home earn every day sign
+197,Win a free iPhone!,Click here to claim your free iPhone now.,Spam,Low,win free iphone click claim free iphone
+198,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
+199,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
+200,Lottery Winner,Congratulations! You have won $5000. Claim your prize.,Spam,Low,lottery winner congratulation claim prize
